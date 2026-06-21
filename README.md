@@ -4,10 +4,9 @@ Trying to perceive reality accurately and transform that understanding into usef
 
 Other things:
 - 🔭 I’m currently working on
-  -- [Egentop Core](https://github.com/mcchukwu/egentop-core)
-  -- [LeanAuth](https://github.com/mcchukwu/goleanauth)
+  - [Egentop](https://github.com/mcchukwu/egentop-core)
+  - [Go Lean Auth](https://github.com/mcchukwu/goleanauth)
 - 🌱 I’m currently learning
-  -- Distributed systems
-  -- Software architecture
-  -- Software design
--->
+  - Distributed systems
+  - Software architecture
+  - Software design
