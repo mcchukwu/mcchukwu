@@ -1,4 +1,4 @@
-mcchukwu
+Miracle Chukwu
 
 Trying to perceive reality accurately and transform that understanding into useful action.
 
