@@ -2,7 +2,7 @@ Miracle Chukwu
 
 Trying to perceive reality accurately and transform that understanding into useful action.
 
-Other things:
+Things:
 
 - 🔭 I’m currently working on
   - [Egentop](https://github.com/mcchukwu/egentop-core)
